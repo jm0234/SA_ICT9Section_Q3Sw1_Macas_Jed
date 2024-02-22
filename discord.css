@@ -1,0 +1,33 @@
+{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+
+body{
+	width:100vw;
+	height:100vh;
+	background-image:url("discordbg.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	font-family: 'Whitney', sans-serif;
+<link rel="stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome
+user-select:none;
+
+}
+
+::-webkit-scrollbar{
+		display:none;
+
+}
+
+
+ #svgBlob
+  height:100vh;
+  width:100vh;
+  position:absolut;
+  top:0;
+  background:transparent;
+  transition:1s;
+}
